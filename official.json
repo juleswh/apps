@@ -78,7 +78,7 @@
     },
     "piwigo": {
         "branch": "master",
-        "level": 6,
+        "level": 7,
         "revision": "091c3de0f86345768ad8a7bb2fe22fcface94407",
         "state": "validated",
         "url": "https://github.com/YunoHost-Apps/piwigo_ynh"
@@ -148,7 +148,7 @@
     },
     "zerobin": {
         "branch": "master",
-        "level": 7,
+        "level": 1,
         "revision": "64be493f069f428800b7a6bae7ae549ec7792b82",
         "state": "validated",
         "url": "https://github.com/YunoHost-apps/zerobin_ynh"
